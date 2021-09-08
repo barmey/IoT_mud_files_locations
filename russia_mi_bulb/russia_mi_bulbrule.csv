@@ -1,0 +1,5 @@
+srcMac,dstMac,ethType,srcIp,dstIp,ipProto,srcPort,dstPort,priority, icmpType, icmpCode
+<deviceMac>,ff:ff:ff:ff:ff:ff,0x0806,*,*,*,*,*,1300,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,ru.ot.io.mi.com,17,*,8053,810,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.137.1,*,17,67,*,1400,*,*
+<gatewayMac>,<deviceMac>,0x0800,ru.ot.io.mi.com,*,17,8053,*,710,*,*

@@ -1,0 +1,9 @@
+srcMac,dstMac,ethType,srcIp,dstIp,ipProto,srcPort,dstPort,priority, icmpType, icmpCode
+<deviceMac>,ff:ff:ff:ff:ff:ff,0x0806,*,*,*,*,*,1300,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,v2.broker.lifx.co,6,*,56700,855,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,192.168.137.1,1,*,*,1001,8,0
+<deviceMac>,*,0x86dd,*,ff00::/8,17,*,5353,1300,*,*
+<deviceMac>,*,0x0800,*,224.0.0.251,17,*,5353,1300,*,*
+<gatewayMac>,<deviceMac>,0x0800,v2.broker.lifx.co,*,6,56700,*,750,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.137.1,*,17,67,*,1400,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.137.1,*,1,*,*,1001,0,0

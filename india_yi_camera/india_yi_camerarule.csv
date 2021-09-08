@@ -1,0 +1,14 @@
+srcMac,dstMac,ethType,srcIp,dstIp,ipProto,srcPort,dstPort,priority, icmpType, icmpCode
+<deviceMac>,<gatewayMac>,0x0800,*,api.xiaoyi.com.tw,6,*,443,855,*,*
+<deviceMac>,ff:ff:ff:ff:ff:ff,0x0806,*,*,*,*,*,1300,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,147.161.12.152,17,*,36422,810,*,*
+<deviceMac>,ff:ff:ff:ff:ff:ff,0x0800,*,*,17,*,32108,1300,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,147.161.12.152,17,*,36441,810,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,api.xiaoyi.com.tw,6,*,80,855,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,8.8.8.8,17,*,53,1001,*,*
+<gatewayMac>,<deviceMac>,0x0800,api.xiaoyi.com.tw,*,6,80,*,750,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.137.1,*,17,67,*,1400,*,*
+<gatewayMac>,<deviceMac>,0x0800,147.161.12.152,*,17,36422,*,710,*,*
+<gatewayMac>,<deviceMac>,0x0800,api.xiaoyi.com.tw,*,6,443,*,750,*,*
+<gatewayMac>,<deviceMac>,0x0800,147.161.12.152,*,17,36441,*,710,*,*
+<gatewayMac>,<deviceMac>,0x0800,8.8.8.8,*,17,53,*,1001,*,*

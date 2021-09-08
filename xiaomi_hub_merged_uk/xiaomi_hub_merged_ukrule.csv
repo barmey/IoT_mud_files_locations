@@ -1,0 +1,16 @@
+srcMac,dstMac,ethType,srcIp,dstIp,ipProto,srcPort,dstPort,priority, icmpType, icmpCode
+<deviceMac>,*,0x0800,*,224.0.0.251,2,*,*,1300,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,192.168.20.254,1,*,*,1001,8,0
+<deviceMac>,<gatewayMac>,0x0800,*,124.251.57.5,17,*,8053,810,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,ot.io.mi.com,17,*,8053,810,*,*
+<deviceMac>,ff:ff:ff:ff:ff:ff,0x0800,*,255.255.255.255,17,*,67,1300,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,ott.io.mi.com,6,*,80,855,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,192.168.20.254,17,*,67,1400,*,*
+<deviceMac>,*,0x0800,*,224.0.0.251,17,*,5353,1300,*,*
+<deviceMac>,ff:ff:ff:ff:ff:ff,0x0006,*,*,*,*,*,1300,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.20.254,*,17,67,*,1400,*,*
+<gatewayMac>,<deviceMac>,0x0800,ot.io.mi.com,*,17,8053,*,710,*,*
+<gatewayMac>,<deviceMac>,0x0800,124.251.57.5,*,17,8053,*,710,*,*
+<gatewayMac>,<deviceMac>,0x0800,ott.io.mi.com,*,6,80,*,750,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.20.254,*,1,*,*,1001,0,0
+<deviceMac>,*,0x888e,*,*,*,*,*,650,*,*

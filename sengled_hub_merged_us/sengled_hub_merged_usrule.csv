@@ -1,0 +1,13 @@
+srcMac,dstMac,ethType,srcIp,dstIp,ipProto,srcPort,dstPort,priority, icmpType, icmpCode
+<deviceMac>,*,0x0800,*,224.0.0.1,2,*,*,1300,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,192.168.10.254,17,*,67,1400,*,*
+<deviceMac>,*,0x86dd,*,ff00::/8,0,*,*,1300,*,*
+<deviceMac>,ff:ff:ff:ff:ff:ff,0x0800,*,255.255.255.255,17,*,67,1300,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,us-elements.cloud.sengled.com,6,*,443,855,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,34.214.63.15,6,*,13000,855,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,34.222.239.7,6,*,13000,855,*,*
+<gatewayMac>,<deviceMac>,0x0800,34.222.239.7,*,6,13000,*,750,*,*
+<gatewayMac>,<deviceMac>,0x0800,34.214.63.15,*,6,13000,*,750,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.10.254,*,17,67,*,1400,*,*
+<gatewayMac>,<deviceMac>,0x0800,us-elements.cloud.sengled.com,*,6,443,*,750,*,*
+<deviceMac>,*,0x888e,*,*,*,*,*,650,*,*

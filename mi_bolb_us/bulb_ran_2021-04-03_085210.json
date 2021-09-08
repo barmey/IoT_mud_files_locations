@@ -1,0 +1,126 @@
+{
+    "ietf-mud:mud": {
+        "mud-version": 1,
+        "mud-url": "",
+        "is-supported": true,
+        "mfg-name": "Beijing Xiaomi Mobile Software Co., Ltd",
+        "documentation": "",
+        "systeminfo": "bulb_ran",
+        "cache-validity": 48,
+        "last-update": "2021-04-03T08:51:56",
+        "from-device-policy": {
+            "access-lists": {
+                "access-list": [
+                    {
+                        "name": "mud-55164-v4fr"
+                    }
+                ]
+            }
+        },
+        "to-device-policy": {
+            "access-lists": {
+                "access-list": [
+                    {
+                        "name": "mud-55164-v4to"
+                    }
+                ]
+            }
+        }
+    },
+    "ietf-access-control-list:acls": {
+        "acl": [
+            {
+                "name": "mud-55164-v4to",
+                "type": "ipv4-acl-type",
+                "aces": {
+                    "ace": [
+                        {
+                            "name": "loc0-todev",
+                            "matches": {
+                                "ietf-mud:mud": {
+                                    "local-networks": []
+                                },
+                                "ipv4": {
+                                    "protocol": 17
+                                }
+                            },
+                            "actions": {
+                                "forwarding": "accept"
+                            }
+                        },
+                        {
+                            "name": "cl0-todev",
+                            "matches": {
+                                "ipv4": {
+                                    "protocol": 17,
+                                    "ietf-acldns:src-dnsname": "dns.google"
+                                }
+                            },
+                            "actions": {
+                                "forwarding": "accept"
+                            }
+                        },
+                        {
+                            "name": "cl1-todev",
+                            "matches": {
+                                "ipv4": {
+                                    "protocol": 17,
+                                    "ietf-acldns:src-dnsname": "ec2-54-202-193-179.us-west-2.compute.amazonaws.com"
+                                }
+                            },
+                            "actions": {
+                                "forwarding": "accept"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "mud-55164-v4fr",
+                "type": "ipv4-acl-type",
+                "aces": {
+                    "ace": [
+                        {
+                            "name": "loc0-frdev",
+                            "matches": {
+                                "ietf-mud:mud": {
+                                    "local-networks": []
+                                },
+                                "ipv4": {
+                                    "protocol": 17
+                                }
+                            },
+                            "actions": {
+                                "forwarding": "accept"
+                            }
+                        },
+                        {
+                            "name": "cl0-frdev",
+                            "matches": {
+                                "ipv4": {
+                                    "protocol": 17,
+                                    "ietf-acldns:dst-dnsname": "dns.google"
+                                }
+                            },
+                            "actions": {
+                                "forwarding": "accept"
+                            }
+                        },
+                        {
+                            "name": "cl1-frdev",
+                            "matches": {
+                                "ipv4": {
+                                    "protocol": 17,
+                                    "ietf-acldns:dst-dnsname": "ec2-54-202-193-179.us-west-2.compute.amazonaws.com"
+                                }
+                            },
+                            "actions": {
+                                "forwarding": "accept"
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

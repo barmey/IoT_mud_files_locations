@@ -1,0 +1,12 @@
+srcMac,dstMac,ethType,srcIp,dstIp,ipProto,srcPort,dstPort,priority, icmpType, icmpCode
+<deviceMac>,<gatewayMac>,0x0800,*,pool.ntp.org,17,*,123,1001,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,use1-api.tplinkra.com,6,*,443,855,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,euw1-api.tplinkra.com,6,*,443,855,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,n-devs.tplinkcloud.com,6,*,443,855,*,*
+<deviceMac>,<gatewayMac>,0x0800,*,8.8.8.8,17,*,53,1001,*,*
+<gatewayMac>,<deviceMac>,0x0800,euw1-api.tplinkra.com,*,6,443,*,750,*,*
+<gatewayMac>,<deviceMac>,0x0800,use1-api.tplinkra.com,*,6,443,*,750,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.137.1,*,17,67,*,1400,*,*
+<gatewayMac>,<deviceMac>,0x0800,8.8.8.8,*,17,53,*,1001,*,*
+<gatewayMac>,<deviceMac>,0x0800,pool.ntp.org,*,17,123,*,1001,*,*
+<gatewayMac>,<deviceMac>,0x0800,n-devs.tplinkcloud.com,*,6,443,*,750,*,*

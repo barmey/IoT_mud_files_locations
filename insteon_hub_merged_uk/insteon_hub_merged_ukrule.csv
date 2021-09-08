@@ -1,0 +1,4 @@
+srcMac,dstMac,ethType,srcIp,dstIp,ipProto,srcPort,dstPort,priority, icmpType, icmpCode
+<deviceMac>,<gatewayMac>,0x0800,*,connect.insteon.com,6,*,80,855,*,*
+<gatewayMac>,<deviceMac>,0x0800,192.168.20.254,*,17,67,*,1400,*,*
+<gatewayMac>,<deviceMac>,0x0800,connect.insteon.com,*,6,80,*,750,*,*
