@@ -1,0 +1,1466 @@
+{
+  "blink-camera": {
+    "domains": {
+      "vs-cam.u002.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "is-cam.u002.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "vs-cam.prde.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "is-cam.prde.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "apphelp.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "vs-cam.prd2.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest.prod.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rest-prod.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "lv-app-prd2.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest.prd2.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "vs-cam.prod.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "prd2.immedia-semi.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "prod.immedia-semi.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "lv-app-prod.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest-prd2.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://github.com/thefronzbot/blinkpy/blob/dev/API.md#:~:text=Notes%3A%20The%20authtoken%20value%20is,change%20the%20REST%20endpoints%20below",
+      "https://duangenquan.github.io/slate/#:~:text=%60curl%20,d%20%27email%3Dyouremail%26password%3Dyourpassword%26client_specifier%3D%2522iPhone%25209.2%20%2520%257C%25202.2%2520%257C%2520222%2522%27",
+      "https://support.blinkforhome.com/spotlight/blink-region-locking/#:~:text=Currently%2C%20the%20new%20Blink%20products,products%20sold%20in%20another%20region"
+    ]
+  },
+  "blink-security-hub": {
+    "domains": {
+      "rest-u001.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rest-hw-e001.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest-u002.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rest-hw-prde.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest.u002.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rest.prde.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rest-hw-u002.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest-e001.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "cs-u002.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "cs-prde.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest-hw-u001.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest-e002.immedia-semi.com ([duangenquan.github.io](https://duangenquan.github.io/slate/#:~:text=%60curl%20": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rest-prod.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "d%20%27email%3Dyouremail%26password%3Dyourpassword%26client_specifier%3D%2522iPhone%25209.2%20%2520%257C%25202.2%2520%257C%2520222%2522%27))": {
+        "resolved": false,
+        "reachable": false
+      },
+      "tulsa-dashboard.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "mobile-es.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "apphelp.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rest.prod.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rest.test.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "dev.share.immedia-semi.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "ecs.dev.oauth.immedia-semi.com ([duangenquan.github.io](https://duangenquan.github.io/slate/#:~:text=%60curl%20": {
+        "resolved": false,
+        "reachable": false
+      },
+      "prsg.immedia-semi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "rest-prd2.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "refurb-selector.immedia-semi.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://duangenquan.github.io/slate/#:~:text=%60curl%20,d%20%27email%3Dyouremail%26password%3Dyourpassword%26client_specifier%3D%2522iPhone%25209.2%20%2520%257C%25202.2%2520%257C%2520222%2522%27",
+      "https://duangenquan.github.io/slate/#:~:text=%60curl%20,H%20%27TOKEN_AUTH%3A%20%7B%7Byourtoken%7D%7D%27",
+      "https://support.blinkforhome.com/news-updates/blink-region-locking#:~:text=Currently%2C%20the%20new%20Blink%20products,products%20sold%20in%20another%20region"
+    ]
+  },
+  "yi-camera": {
+    "domains": {
+      "motiondetection-eu.oss-eu-central-1.aliyuncs.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "log.us.xiaoyi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "xshcam-us.oss-us-west-1.aliyuncs.com ([github.com](https://github.com/roleoroleo/yi-hack-Allwinner-v2/issues/946#:~:text=dispatch.c%28choose_server": {
+        "resolved": true,
+        "reachable": true
+      },
+      "keySec)) ([forum.yitechnology.com](https://forum.yitechnology.com/t/fhd-1080p-smart-camera-wont-pair/3090#:~:text=10": {
+        "resolved": true,
+        "reachable": true
+      },
+      "r10%2C%20dlproto%20%3D%20micn))": {
+        "resolved": false,
+        "reachable": false
+      },
+      "log.xiaoyi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "api.xiaoyi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "plt-api.xiaoyi.com ([github.com](https://github.com/TheCrypt0/yi-hack-v4/issues/37#:~:text=%60": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://github.com/TheCrypt0/yi-hack-v4/issues/37#:~:text=%60,keySec",
+      "https://forum.yitechnology.com/t/fhd-1080p-smart-camera-wont-pair/3090#:~:text=10,r10%2C%20dlproto%20%3D%20micn",
+      "https://github.com/roleoroleo/yi-hack-Allwinner-v2/issues/946#:~:text=dispatch.c%28choose_server,y28ga%2C%20dlproto%20%3D%20mius",
+      "https://ci-www.threatcrowd.org/domain.php?domain=xshcam-us.oss-us-west-1.aliyuncs.com#:~:text=HTTP%2F1,00000002%2FEC%3E%20RecommendDoc%3Ehttps%3A%2F%2Fapi.alibab",
+      "https://blog.geekbuying.com/2016/05/yi-home-camera-and-app-connection/#:~:text=%E2%80%9CThe%20Chinese%20version%20YI%20Home,we%20suggest%20to%20buying%20international"
+    ]
+  },
+  "smartthings-hub": {
+    "domains": {
+      "dc-na04-useast2.connect.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "dc-eu01-euwest1.connect.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "dc2-na04-useast2.connect.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "hub.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "connectivity.smartthings.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "fw-update.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "auth-global.api.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "auth.api.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "updaterng.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "client.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "client-assets.smartthings.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "fw.dc.connect.smartthings.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "spigot-regional.api.smartthings.com": {
+        "resolved": true,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://www.netify.ai/resources/domains/smartthings.com#:~:text=,client.smartthings.com",
+      "https://www.netify.ai/resources/domains/smartthings.com#:~:text=,updaterng.smartthings.com",
+      "https://community.smartthings.com/t/smartthings-firewalling-serious-security-concerns/121724#:~:text=%3E%20fw",
+      "https://community.smartthings.com/t/smartthings-firewalling-serious-security-concerns/121724#:~:text=%60%20fw,can%20be%20any%20of%20three",
+      "https://community.smartthings.com/t/smartthings-firewalling-serious-security-concerns/121724#:~:text=,40406787.us",
+      "https://community.smartthings.com/t/smartthings-firewalling-serious-security-concerns/121724#:~:text=The%20IP%20addresses%20they%20claim,are%20valid%20are",
+      "https://developer.smartthings.com/docs/enterprise/accounts/design#:~:text=To%20ensure%20the%20best%20performance,all%20regions%20unless%20otherwise%20noted"
+    ]
+  },
+  "echoplus": {
+    "domains": {
+      "dcape-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "unagi-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "device-messaging-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "avs-alexa-4-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "avs-alexa-4-eu.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "arcus-uswest.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "device-artifacts-v2-eu.s3.eu-west-1.amazonaws.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "device-metrics-us.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "dp-gw-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://www.netify.ai/resources/hostnames/api.eu.amazonalexa.com#:~:text=api,IP%20addresses%20on%20Amazon%20CloudFront",
+      "https://www.netify.ai/resources/hostnames/arcus-uswest.amazon.com#:~:text=arcus,in%20Boardman%2C%20Oregon%2C%20United%20States",
+      "https://developer.amazon.com/en-US/alexa/devices/alexa-built-in/international#:~:text=Supported%20regions%20include%3A"
+    ]
+  },
+  "echospot": {
+    "domains": {
+      "s3-eu-west-1.amazonaws.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "dcape-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "device-messaging-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "andr-22-amazon-aeork-304635user635559420.api.amazonvideo.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "avs-alexa-5-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "dp-gw-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "det-ta-g7g.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "arcus-uswest.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "avs-alexa-5-eu.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "device-metrics-us-2.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "device-metrics-us.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "unagi-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "andr-785f3ec7eb-cbc62794911ff31b-6275da66d5254dff56-2400322.ec.api.amazonvideo.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://www.netify.ai/resources/domains/amazonalexa.com#:~:text=,frontier.fe.amazonalexa.com%20%20%2A%20%207",
+      "https://www.netify.ai/resources/domains/amazonvideo.com#:~:text=,f4200d648f.na.api.amazonvideo.com",
+      "https://support-eu.denon.com/app/answers/detail/a_id/20425/~/countries-where-alexa-is-available#:~:text=Alexa%20is%20currently%20available%20in,France%20Germany%20India%20Italy",
+      "https://support-eu.denon.com/app/answers/detail/a_id/20425/~/countries-where-alexa-is-available#:~:text=Japan%20Mexico%20Netherlands%20New%20Zealand,Spain%20United%20Kingdom"
+    ]
+  },
+  "firetv": {
+    "domains": {
+      "ktpx-uk.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "dcape-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "dp-discovery-na-ext.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "device-messaging-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "images-na.ssl-images-amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ftvr-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "unagi-eu.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "aax-eu.amazon-adsystem.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "dp-gw-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "arcus-uswest.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "mas-ext-eu.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "atv-ext-eu.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "aax-us-east.amazon-adsystem.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "device-metrics-us.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "unagi-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://website-g7g.amazon.co.uk/gp/help/customer/display.html?nodeId=201624360#:~:text=,back%20to%20your%20original%20country"
+    ]
+  },
+  "echodot": {
+    "domains": {
+      "dcape-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "unagi-na.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "device-messaging-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "avs-alexa-4-eu.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "arcus-uswest.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "device-metrics-us-2.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "device-metrics-us.amazon.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "dp-gw-na.amazon.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://www.netify.ai/resources/hostnames/api.amazonalexa.com#:~:text=api,IP%20addresses%20on%20Amazon%20CloudFront",
+      "https://www.netify.ai/resources/hostnames/arcus-uswest.amazon.com#:~:text=arcus,in%20Boardman%2C%20Oregon%2C%20United%20States",
+      "https://www.netify.ai/resources/hostnames/device-messaging-na.amazon.com#:~:text=device,in%20Ashburn%2C%20Virginia%2C%20United%20States",
+      "https://www.netify.ai/resources/hostnames/pindorama.amazon.com#:~:text=pindorama,AWS%20in%20the%20United%20States",
+      "https://support-eu.denon.com/app/answers/detail/a_id/20425/~/countries-where-alexa-is-available#:~:text=Alexa%20is%20currently%20available%20in,France%20Germany%20India%20Italy",
+      "https://www.netify.ai/resources/hostnames/api.amazon.com#:~:text=api,in%20Ashburn%2C%20Virginia%2C%20United%20States"
+    ]
+  },
+  "xiaomi-cleaner": {
+    "domains": {
+      "st.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "in.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "st.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "sg.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ru.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "tw.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "sg.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "in.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ea.ott.io.mi.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "ru.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "tw.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ea.ot.io.mi.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "pv.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "pv.ott.io.mi.com` ([4pda.to](https://4pda.to/forum/index.php?showtopic=680062&st=17160#:~:text=ot": {
+        "resolved": true,
+        "reachable": true
+      },
+      "api.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ots.io.mi.com` ([github.com](https://github.com/vernesong/OpenClash/issues/2431#:~:text=28.%20SourceIP%3A%E3%80%96192.168.1.110%E3%80%97%20": {
+        "resolved": true,
+        "reachable": true
+      },
+      "Lastchain%3A%E3%80%96DIRECT%E3%80%97))": {
+        "resolved": false,
+        "reachable": false
+      },
+      "ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "`account.xiaomi.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://logto.io/oauth-providers-explorer/xiaomi#:~:text=https%3A%2F%2Faccount",
+      "https://4pda.to/forum/index.php?showtopic=680062&st=17160#:~:text=ot,com",
+      "https://4pda.to/forum/index.php?showtopic=680062&st=17160#:~:text=st,com",
+      "https://4pda.to/forum/index.php?showtopic=680062&st=17160#:~:text=ea",
+      "https://github.com/vernesong/OpenClash/issues/2431#:~:text=28.%20SourceIP%3A%E3%80%96192.168.1.110%E3%80%97%20,Lastchain%3A%E3%80%96DIRECT%E3%80%97",
+      "https://www.mi.com/vn/support/policy/cookie-policy/#:~:text=es%2Cfr%2Cit%2Cde%2Cuk%2Cnl%2Cru%2Ctr%2Cin%2Cid%2Chk%2Ctw%2Cjp%2Cmx%2Cvn%20XM_XX,7%20ng%C3%A0y",
+      "https://blog.matterxiaomi.com/blog/Region-lock#:~:text=In%20the%202016%20later%2CStarting%20from,the%20previous%20region%E2%80%99s%20cloud%20storage"
+    ]
+  },
+  "tplink-plug": {
+    "domains": {
+      "euw1-events.tplinkra.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "** devs.tplinkcloud.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "It%20hasnt%20seemed%20to))": {
+        "resolved": false,
+        "reachable": false
+      },
+      "wap.tplinkcloud.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "external-api.tplinkra.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "api.tplinkra.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "n-device-api.tplinkcloud.com.cn ([community.sense.com](https://community.sense.com/t/hs110-excessive-contacting-devs-tplinkcloud-com/11135#:~:text=Does%20anyone%20know%20what%20its": {
+        "resolved": true,
+        "reachable": true
+      },
+      "assets.tplinkra.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://community.sense.com/t/hs110-excessive-contacting-devs-tplinkcloud-com/11135#:~:text=Does%20anyone%20know%20what%20its,It%20hasnt%20seemed%20to",
+      "https://gist.github.com/blizzrdof77/060b8702e91fb21abbc2337ce13ce876#:~:text=%7C%20%24http.post%28,expires%3A%20exp",
+      "https://external.tplinkra.com/api/docs/v1/#:~:text=Authorization%20URL%3A%20https%3A%2F%2Fapi,link.com",
+      "https://www.netify.ai/resources/hostnames/assets.tplinkra.com#:~:text=Associated%20IPs",
+      "https://www.netify.ai/resources/domains/tplinkcloud.com.cn#:~:text=%2A%20n,ipc.tplinkcloud.com.cn"
+    ]
+  },
+  "sengled-hub": {
+    "domains": {
+      "us-mqtt.cloud.sengled.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "eu-element.cloud.sengled.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "eu-amazon-storage.cloud.sengled.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "us-ops-mgt.cloud.sengled.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "eu-mqtt.cloud.sengled.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "eu-ops-mgt.cloud.sengled.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "us-amazon-storage.cloud.sengled.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "eu-life2.cloud.sengled.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "element.cloud.sengled.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "amazon-storage.cloud.sengled.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "storage.cloud.sengled.com": {
+        "resolved": false,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://community.home-assistant.io/t/sengled-led-bulbs-and-hub-with-ha/37805#:~:text=SENGLED_GW_DOMAIN_NAME%3D",
+      "https://github.com/jfarmer08/ha-sengledapi/issues/10#:~:text=storage.cloud.sengled.com%3A443%2Famazon",
+      "https://github.com/jfarmer08/ha-sengledapi/issues/22#:~:text=SengledApi%3A%20Get%20MQTT%20Server%20Info,135%27%2C%20%27mqttSslPort%27%3A%206884%2C%20%27opsMgtUrl%27%3A",
+      "https://github.com/jfarmer08/ha-sengledapi/issues/10#:~:text=%27https%3A%2F%2Feu,mgt%27%2C%20%27success",
+      "https://github.com/jfarmer08/ha-sengledapi/issues/10#:~:text=,prod",
+      "https://github.com/jfarmer08/ha-sengledapi/issues/22#:~:text=1305791%2C%20%27nick_name%27%3A%20%27seperis%40gmail,2%26filename%3Dorigin.png%27%2C%20%27jsessionId",
+      "https://github.com/jfarmer08/ha-sengledapi#:~:text=Country%20Code%20example%3A"
+    ]
+  },
+  "lightify-hub": {
+    "domains": {
+      "srmp03lb02.au.pub.arrayent.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "srmprod02-lb01.us.pub.arrayent.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "srmp01lb02.ch.pub.arrayent.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "arrayent.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://goughlui.com/2015/11/26/review-osram-lightify-smart-connected-lighting-system/#:~:text=The%20cloud%20services%20are%20enabled,58%20%28an%20adjacent",
+      "https://www.iot-tests.de/2017/07/spotlight-on-lightify/#:~:text=For%20the%20online%20communication%2C%20Osram,encrypted%20per%20default"
+    ]
+  },
+  "appletv": {
+    "domains": {
+      "apple-demos-atv-us-std-000001.s3.amazonaws.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "p57-buy.itunes.apple.com.akadns.net": {
+        "resolved": false,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://support.apple.com/en-tm/101555#:~:text=,%E2%80%94",
+      "https://support.apple.com/en-tm/101555#:~:text=,Yes",
+      "https://www.apple.com/mz/newsroom/2019/09/apple-tv-launches-november-1-featuring-originals-from-the-worlds-greatest-storytellers/#:~:text=Apple%20TV%2B%20will%20be%20available,and%20regions%20on%20November%201"
+    ]
+  },
+  "xiaomi-hub": {
+    "domains": {
+      "st.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "sg.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ru.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "sg.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "de.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "us.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "us.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ea.ot.io.mi.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "pv.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "st.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "in.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "pv.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "de.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "in.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ea.ott.io.mi.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "tw.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ru.ott.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "tw.ot.io.mi.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://4pda.to/forum/index.php?showtopic=680062&st=17160#:~:text=ot,com",
+      "https://4pda.to/forum/index.php?showtopic=680062&st=17160#:~:text=ru,com",
+      "https://www.researchgate.net/publication/338362910_About_the_Connectivity_of_Xiaomi_Internet-of-Things_Smart_Home_Devices#:~:text=120",
+      "https://www.researchgate.net/publication/338362910_About_the_Connectivity_of_Xiaomi_Internet-of-Things_Smart_Home_Devices#:~:text=161,"
+    ]
+  },
+  "samsungtv-wired": {
+    "domains": {
+      "samsungacr.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "samsungosp.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "samsungqbe.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "internetat.tv": {
+        "resolved": true,
+        "reachable": false
+      },
+      "samsungcloudsolution.net": {
+        "resolved": false,
+        "reachable": false
+      },
+      "chili.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "samsungotn.net": {
+        "resolved": true,
+        "reachable": false
+      },
+      "netflix.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "bbc.co.uk": {
+        "resolved": true,
+        "reachable": true
+      },
+      "channel5.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "discovery.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "fbcdn.net": {
+        "resolved": true,
+        "reachable": true
+      },
+      "samsungcloud.tv": {
+        "resolved": false,
+        "reachable": false
+      },
+      "cloudfront.net": {
+        "resolved": false,
+        "reachable": false
+      },
+      "hulu.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "nflxso.net": {
+        "resolved": false,
+        "reachable": false
+      },
+      "deezer.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "samsungrm.net": {
+        "resolved": true,
+        "reachable": false
+      },
+      "nflximg.net": {
+        "resolved": false,
+        "reachable": false
+      },
+      "samsungcloudsolution.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "itv.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "kochava.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "microsoft.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "samsungads.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "nflximg.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "nflxvideo.net": {
+        "resolved": true,
+        "reachable": false
+      },
+      "samsungelectronics.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "samsungcloudcdn.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "nflxext.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "vudu.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "google.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "wuaki.tv": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rakuten.tv": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://www.netify.ai/resources/domains/internetat.tv#:~:text=The%20,this%20domain%20are%20shown%20below",
+      "https://www.netify.ai/resources/domains/samsungcloud.tv#:~:text=The%20,this%20domain%20are%20shown%20below",
+      "https://github.com/nickwinn/samsung-smarttv-firewall#:~:text=%60device,com",
+      "https://www.netify.ai/resources/applications/samsung-ads#:~:text=,samsungads.com",
+      "https://www.netify.ai/resources/applications/netflix#:~:text=",
+      "https://www.netify.ai/resources/hostnames/eu2-scloud-proxy.ssp.samsungosp.com#:~:text=IP%20%20,Ireland",
+      "https://www.netify.ai/resources/hostnames/us-auth2.samsungosp.com#:~:text=IP%20%20,Logo%20Amazon"
+    ]
+  },
+  "roku-tv": {
+    "domains": {
+      "api.sr.roku.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "images.sr.roku.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "api2.sr.roku.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "rokutime.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "roku.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "w55c.net": {
+        "resolved": false,
+        "reachable": false
+      },
+      "ravm.net": {
+        "resolved": false,
+        "reachable": false
+      },
+      "ravm.tv": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://community.roku.com/t5/Roku-setup/Which-International-Countries-Can-Use/m-p/788281#:~:text=Roku%20is%20officially%20supported%20here%3A",
+      "https://community.roku.com/t5/Streaming-Experts-program/Rokus-in-non-supported-countries/td-p/895203#:~:text=Every%20user%20is%20assigned%20a,easy%20process%20for%20a%20user",
+      "https://www.netify.ai/resources/applications/roku#:~:text=,ravm.net"
+    ]
+  },
+  "tplink-bulb": {
+    "domains": {
+      "euw1-events.tplinkra.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "euw1-api.tplinkra.com": {
+        "resolved": true,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://www.softscheck.com/de/blog/tp-link-reverse-engineering/#:~:text=The%20HS110%20Smart%20Plug%20regularly,change%20the%20cloud%20server%20URL",
+      "https://external.tplinkra.com/api/docs/v1/#:~:text=Authorization%20URL%3A%20https%3A%2F%2Fapi,link.com"
+    ]
+  },
+  "nest-tstat": {
+    "domains": {
+      "czfe30-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe08-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe84-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe81-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe53-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe19-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe64-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe104-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe135-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe67-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe28-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe01-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe06-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe04-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe75-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe89-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe26-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe102-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe132-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe39-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe109-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe113-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe73-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe35-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe96-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe134-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe12-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe76-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe78-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe03-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe116-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe129-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe60-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe65-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe46-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "czfe32-front01-iad01.transport.home.nest.com": {
+        "resolved": true,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://community.smartthings.com/t/nest-device-type-with-a-bunch-of-new-features/5878?page=2#:~:text=email%3Aremoved%20email%2C%20urls%3A%5Bdirect_transport_url%3Ahttps%3A%2F%2Ftransport01,iad01.devices.nest.com%2Fupload%2Fuser",
+      "https://www.netify.ai/resources/hostnames/weather.nest.com#:~:text=weather,in%20Ashburn%2C%20Virginia%2C%20United%20States",
+      "https://support.google.com/store/answer/2462844?hl=en-PH#:~:text=Canada%2C%20United%20States%20,Rico",
+      "https://support.google.com/store/answer/2462844?hl=en-PH#:~:text=Google%20Nest%20Thermostat%20E",
+      "https://www.netify.ai/resources/hostnames/frontdoor.nest.com#:~:text=frontdoor,Platform%20in%20the%20United%20States"
+    ]
+  },
+  "ring-doorbell": {
+    "domains": {
+      "de-de.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "it-it.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ae-en.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "es-es.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "nl-nl.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "uk-en.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "en-uk.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "en-se.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "se-en.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "latam-es.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "sa-en.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "fr-fr.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "za-en.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ring.amazon.dev": {
+        "resolved": false,
+        "reachable": false
+      },
+      "rings.solutions": {
+        "resolved": false,
+        "reachable": false
+      },
+      "ds-firmwares.ring.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ring.net": {
+        "resolved": false,
+        "reachable": false
+      },
+      "dynamicfwrms.ring.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://domain.glass/rss-dpd-service.ring.com#:~:text=Issuer%20%20,ring.com%2C%20DNS%3Aring.com",
+      "https://www.netify.ai/resources/hostnames/fw.ring.com#:~:text=fw,in%20Boardman%2C%20Oregon%2C%20United%20States",
+      "https://www.netify.ai/resources/hostnames/ring.amazon.dev#:~:text=ring,IP%20addresses%20on%20the%20Internet",
+      "https://www.netify.ai/resources/domains/rings.solutions#:~:text=rings.solutions%20",
+      "https://ring.com/gb/en/support/articles/xk0je/Ring-Alarm-availability-in-Europe?srsltid=AfmBOorqTg_6UX0Nk9pvZbTDbOvrIOvQT2LeaA3bNJUX3-Ywnmm5GAbO#:~:text=At%20present%2C%20Ring%20Alarm%20will,in%20the%20following%20European%20countries"
+    ]
+  },
+  "magichome-strip": {
+    "domains": {
+      "mhb8805us.magichue.net": {
+        "resolved": true,
+        "reachable": false
+      },
+      "ra8815us02.magichue.net": {
+        "resolved": true,
+        "reachable": false
+      },
+      "mhc8806us.magichue.net": {
+        "resolved": true,
+        "reachable": false
+      },
+      "ra8816us02.magichue.net": {
+        "resolved": true,
+        "reachable": false
+      },
+      "ra8816eu02.magichue.net": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://github.com/ThomasJones4/Reverse-Engineered-Smart-Lights#:~:text=Remote%20control%20works%20over%20,http%3A%2F%2Fwifi.magichue.net%3A8805",
+      "https://www.freebuf.com/vuls/267066.html#:~:text=rverController%5C",
+      "https://www.clacee.eu/content/os-tools/en/projects/home-information-system/magichue-magichome-wifi-led-controller.html#:~:text=26%3A%20SEND%20TEXT%3A%20"
+    ]
+  },
+  "insteon-hub": {
+    "domains": {
+      "pubsub.pubnub.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "cache.insteon.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://vulners.com/talos/TALOS-2018-0513#:~:text=an%20HTTP%20GET%20request%3A",
+      "https://vulners.com/talos/TALOS-2018-0513#:~:text=The%20phone%20will%20then%20communicate,update%20using%20the%20FW%20URL",
+      "https://www.talosintelligence.com/vulnerability_reports/TALOS-2017-0502#:~:text=%60",
+      "https://www.insteon.com/support-knowledgebase/tag/Hub%2BSetup#:~:text=,asp",
+      "https://insteon.com.mx/#:~:text=Productos%20Tecnolog%C3%ADa%20Tienda%20Distribuidores"
+    ]
+  },
+  "t-wemo-plug": {
+    "domains": {
+      "app.xbcs.net": {
+        "resolved": true,
+        "reachable": true
+      },
+      "nat.wemo2.com": {
+        "resolved": true,
+        "reachable": false
+      },
+      "heartbeat.lswf.net": {
+        "resolved": true,
+        "reachable": true
+      },
+      "fw.xbcs.net": {
+        "resolved": true,
+        "reachable": false
+      },
+      "heartbeat.xwemo.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "** api.xbcs.net": {
+        "resolved": true,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://studylib.net/doc/8084680/an-experimental-study-of-security-and-privacy-risks-with-...#:~:text=detection%20of%20a%20motion,If%20App",
+      "https://fliphtml5.com/cuwft/zwtt/Abusing_the_Internet_of_Things/#:~:text=server%20running%20on%20the%20Switch,net%3A8443%2F%20apis%2Fhttp%2Fplugin%2Fmessage%20and%20then",
+      "https://github.com/purseclab/CVE-2023-33768/blob/main/README.md#:~:text=We%20exploit%20the%20Wemo%20Android,the%20Wemo%20App%20by%20injecting",
+      "https://github-wiki-see.page/m/pywemo/pywemo/wiki/WeMo-Cloud#:~:text=,TURN%29%20service",
+      "https://front2backdev.com/2019/07/20/my-iot-hacked/#:~:text=communication%20with%20their%20Wemo%20command,of%20the%20rest%20of%20the"
+    ]
+  },
+  "wansview-cam-wired": {
+    "domains": {
+      "uac-acc.ajcloud.net": {
+        "resolved": true,
+        "reachable": true
+      },
+      "us.ajcloud.net": {
+        "resolved": false,
+        "reachable": false
+      },
+      "nwsvr2.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "p2p1.mclview.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "uac.ajcloud.net": {
+        "resolved": true,
+        "reachable": true
+      },
+      "p2p2.mclview.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "nwsvr1.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "ajcloud.net": {
+        "resolved": true,
+        "reachable": true
+      },
+      "3322.org": {
+        "resolved": false,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://heyrick.eu/blog/index.php?diary=20160822&keitai=1#:~:text=The%20",
+      "https://pt.scribd.com/document/126782150/3322-Setup#:~:text=been%20the%20free%20ddns%20standard,org%20is%20of%20simplified%20chinese",
+      "https://www.nvripc.com/wansview-security-cameras-setup-guide/#:~:text=https%3A%2F%2Fuac.ajcloud.net%2Fapi%2Fv1%2Fhealth%20https%3A%2F%2Fuac,co%2FContact",
+      "https://www.elastic.co/security-labs/storm-on-the-horizon#:~:text=us.ajcloud.net%2Fapi%2Fv1%2Fdev"
+    ]
+  },
+  "google-home-mini": {
+    "domains": {
+      "castedumessaging-pa.googleapis.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "connectivitycheck.android.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "dl.google.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://support.google.com/a/answer/6334001?hl=en#:~:text=android.clients.google.com%20%2A.gvt2.com%20%2A.gvt3.com%20%2A.googleapis.com%20gcm,xmpp.googleapis.com%20android.googleapis.com%20fcm.googleapis.com",
+      "https://support.google.com/a/answer/6334001?hl=en#:~:text=connectivitycheck.android.com%20play.google.com%20android.com%20google",
+      "https://support.google.com/a/answer/6334001?hl=en#:~:text=accounts.google.com%20accounts.google.%5Bcountry%5D%20chromeos",
+      "https://support.google.com/a/answer/6334001?hl=en#:~:text=mtalk",
+      "https://support.google.com/chrome/a/answer/12256492?hl=en#:~:text=Isolation%20.%20,pa.googleapis.com",
+      "https://support.google.com/store/answer/2462844?hl=en-GB#:~:text=Australia%2C%20Austria%2C%20Belgium%2C%20Canada%2C%20Denmark%2C,except%20Puerto%20Rico"
+    ]
+  },
+  "t-philips-hub": {
+    "domains": {
+      "baidu.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "meethue.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "google.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "philips.com": {
+        "resolved": true,
+        "reachable": false
+      }
+    },
+    "resources": [
+      "https://www.sidnlabs.nl/en/news-and-blogs/looking-at-internet-traffic-using-spin-a-philips-hue-case-study#:~:text=finished%20starting%20up%2C%20traffic%20starts,In%20order%20to%20find",
+      "https://www.sidnlabs.nl/en/news-and-blogs/looking-at-internet-traffic-using-spin-a-philips-hue-case-study#:~:text=,to%20the%20Hue%20diagnostic%20server",
+      "https://hueblog.com/2023/11/21/even-more-service-links-for-14-countries/#:~:text=These%20countries%20are%20included%3A%20USA%2C,Sweden%2C%20Italy%2C%20France%20and%20Spain"
+    ]
+  },
+  "sousvide": {
+    "domains": {
+      "wifi.nomiku.com": {
+        "resolved": false,
+        "reachable": false
+      },
+      "nomiku.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "eattender.com": {
+        "resolved": true,
+        "reachable": true
+      },
+      "chefsteps.com": {
+        "resolved": true,
+        "reachable": true
+      }
+    },
+    "resources": [
+      "https://medium.com/%40_dennisli/reverse-engineering-the-chefsteps-joule-and-making-a-chrome-extension-fa09c78bd87f#:~:text=Once%20I%20got%20this%20all,looks%20something%20like%20the%20following",
+      "https://www.scribd.com/document/406849765/Nomiku-Quick-Start-Guide#:~:text=nomiku.com%20%7C%20eattender.com%20%7C%20,SousVideAtHome",
+      "https://www.scribd.com/document/406849765/Nomiku-Quick-Start-Guide#:~:text=select,the%20password%2C%20use%20the%20knob",
+      "https://support.chefsteps.com/hc/en-us/articles/360006904294-What-countries-is-Joule-available-in-and-where-can-I-purchase-one#:~:text=,es"
+    ]
+  }
+}
